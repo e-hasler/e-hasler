@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [![Eléonore's GitHub stats](https://github-stats-extended.vercel.app/api?username=e-hasler)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=e-hasler&langs_count=4&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=e-hasler&langs_count=4&theme=nightowl)
 <!--
 **e-hasler/e-hasler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
